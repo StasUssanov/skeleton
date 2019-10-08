@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+html {
+    font-size: 20px;
+}
+
+.body {
+    display: flex;
+    flex-direction: column;
+}
+
+@import './_config';
+@import './main';
