@@ -1,0 +1,14 @@
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Colors ~~~ */
+
+$white: white;
+$black: #333333;
+$red: #f8634a;
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Font ~~~ */
+
+@import url('https://fonts.googleapis.com/css?family=Comfortaa:300,700&display=swap&subset=cyrillic');
+
+html {
+    font-family: 'Comfortaa', cursive;
+    color: $black;
+}
