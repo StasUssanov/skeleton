@@ -6,9 +6,9 @@ $red: #f8634a;
 
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Font ~~~ */
 
-@import url('https://fonts.googleapis.com/css?family=Comfortaa:300,700&display=swap&subset=cyrillic');
+@import './font';
 
 html {
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Phenomena', cursive;
     color: $black;
 }
